@@ -10,6 +10,9 @@ Initial Function2()
  //Sample Code
 }
 
-
+security()
+{
+//Security Patch
+}
 
 }
