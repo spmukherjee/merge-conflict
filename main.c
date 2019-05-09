@@ -1,3 +1,4 @@
+
 pseudo code
 {
 Initial Function()
@@ -10,6 +11,9 @@ Initial Function2()
  //Sample Code
 }
 
-
+Feature1()
+{
+//Sample code for feature1
+}
 
 }
